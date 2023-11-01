@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_cms_app=self.webpackChunkreact_cms_app||[]).push([[23],{23:(s,e,c)=>{c.r(e),c.d(e,{default:()=>r}),c(294);var t=c(893);const r=()=>(0,t.jsx)("table",{children:(0,t.jsx)("tbody",{children:(0,t.jsxs)("tr",{children:[(0,t.jsx)("td",{children:"Dummy"}),(0,t.jsx)("td",{children:"List"})]})})})}}]);
