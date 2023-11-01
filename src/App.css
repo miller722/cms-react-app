@@ -1,0 +1,36 @@
+.wrapper {
+    width: 394px;
+    margin: 50px;
+    font-size: 18px;
+  }
+  
+  .link {
+    padding: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .tab {
+    display: flex;
+    height: 2.5rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.25rem;
+    border-style: none;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  
+    &:hover {
+      background-color: hsl(204 10% 10% / 0.1);
+    }
+    &.active {
+      background-color: hsl(204 100% 40%);
+      color: hsl(204 20% 100%);
+    }
+  }
+  
