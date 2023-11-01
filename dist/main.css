@@ -1,0 +1,1 @@
+.wrapper{width:394px;margin:50px;font-size:18px}.link{padding:10px}a{text-decoration:none;color:inherit;cursor:pointer;font-size:18px}.tab{display:flex;height:2.5rem;align-items:center;justify-content:center;border-radius:.25rem;border-style:none;padding-left:1rem;padding-right:1rem}.tab:hover{background-color:rgba(23,26,28,.1)}.tab.active{background-color:#007acc;color:#fff}
